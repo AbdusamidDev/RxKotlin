@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxKotlin</string>
+    <string name="input">Input</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="activity">From MainActivity to FlowableActivity</string>
+</resources>
